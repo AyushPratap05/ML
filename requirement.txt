@@ -8,3 +8,4 @@ memory_profiler
 streamlit
 sqlalchemy
 requests       # for api fetching data 
+scikit-learn
